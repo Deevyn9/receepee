@@ -1,7 +1,9 @@
 function App() {
   return (
     <div className="App">
-     
+     <h1 className="font-bold text-lg">
+        Jumping Jack
+     </h1>
     </div>
   );
 }
